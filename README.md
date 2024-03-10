@@ -8,7 +8,7 @@ I'm a passionate full-stack JavaScript developer with a strong background in bot
 - **Frontend**: React, React Native, Next.js
 - **Query Language**: GraphQL (Apollo)
 - **Database**: PostgreSQL, MySQL, MongoDB, ArangoDB
-- **DevOps**: Docker, Kubernetes, Heroku, AWS
+- **DevOps**: Docker, Kubernetes, Heroku, AWS, Google Cloud Run
 - **Authentication**: Passport.js, Keycloak, OAuth 2.0, OpenID
 - **Message Broker**: Apache Kafka, RabbitMQ
 - **Version Control**: GitHub, GitLab, Bitbucket
@@ -22,5 +22,7 @@ I thrive in creating scalable and efficient applications that push the boundarie
 ## Contact Me
 
 You can reach out to me via [email](mailto:bhupesh.jsx@gmail.com). I'm always open to new opportunities and collaborations.
+
+<p><img align="center" src="https://streak-stats.demolab.com/?user=bhupesh-js&exclude_days=Sun%2CSat" alt="bhupesh-js" /></p>
 
 Let's build something amazing together! 💻🚀
