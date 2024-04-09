@@ -1,8 +1,8 @@
-# Hello, I'm Bhupesh 👋
+## Bhupesh : Full-Stack JavaScript Developer 👋
 
-I'm a passionate full-stack JavaScript developer with a strong background in both frontend and backend technologies. I love crafting web and mobile applications that deliver exceptional user experiences. Below are some of my key skills and areas of expertise:
+I'm a passionate full-stack JavaScript developer with a strong background in both frontend and backend technologies. I love crafting web and mobile applications that deliver exceptional user experiences.
 
-## Skills
+**Skills:**
 
 - **Backend**: Node.js, Express.js, Nest.js
 - **Frontend**: React, React Native, Next.js
@@ -15,14 +15,15 @@ I'm a passionate full-stack JavaScript developer with a strong background in bot
 - **Caching**: Redis
 - **Serverless Computing**: AWS Lambda, Google Cloud Functions
 
-## About Me
+**About Me:**
 
-I thrive in creating scalable and efficient applications that push the boundaries of what's possible. Whether it's designing a sleek and responsive user interface or architecting a robust and secure backend, I enjoy the challenge of bringing ideas to life. My passion for clean code, best practices, and continuous learning drives me to stay up-to-date with the latest trends in web development.
+I thrive in creating scalable and efficient applications that push boundaries. Whether it's crafting beautiful UIs or architecting secure backends, I love the challenge of bringing ideas to life. My passion for clean code, best practices, and continuous learning keeps me on top of the latest web dev trends .
 
-## Contact Me
+**Connect with Me:**
 
-You can reach out to me via [email](mailto:bhupesh.jsx@gmail.com). I'm always open to new opportunities and collaborations.
+* Email: [email](mailto:bhupesh.jsx@gmail.com)
+* Meeting:[Meeting](https://calendly.com/bhupesh-js/30min)
+
+I'm always open to new opportunities and collaborations! Let's build something amazing together!💻🚀
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=bhupesh-js&exclude_days=Sun%2CSat" alt="bhupesh-js" /></p>
-
-Let's build something amazing together! 💻🚀
