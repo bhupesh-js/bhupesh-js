@@ -21,7 +21,6 @@ I thrive in creating scalable and efficient applications that push boundaries. W
 
 **Connect with Me:**
 
-* Email: [email](mailto:bhupesh.jsx@gmail.com)
 * Meeting:[Meeting](https://calendly.com/bhupesh-js/30min)
 
 I'm always open to new opportunities and collaborations! Let's build something amazing together!💻🚀
